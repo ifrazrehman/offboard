@@ -1,0 +1,11 @@
+URL,API,Title
+https://github.com/PX4/PX4-Autopilot/pull/19560,https://api.github.com/repos/PX4/PX4-Autopilot/pulls/19560,offboard land detection
+https://github.com/microsoft/AirSim/issues/4524,https://api.github.com/repos/microsoft/AirSim/issues/4524,PX4 HITL + External Offboard Controller + AirSim
+https://github.com/PX4/PX4-Autopilot/pull/18318,https://api.github.com/repos/PX4/PX4-Autopilot/pulls/18318,Offboard separate trajectory_setpoint topic 
+https://github.com/PX4/PX4-Autopilot/issues/19640,https://api.github.com/repos/PX4/PX4-Autopilot/issues/19640,Not arming in offboard mode
+https://github.com/mavlink/MAVSDK/issues/1757,https://api.github.com/repos/mavlink/MAVSDK/issues/1757,Cannot start offboard plugin from the RC switch (instead of calling offboard->start())
+https://github.com/PX4/PX4-Autopilot/issues/19486,https://api.github.com/repos/PX4/PX4-Autopilot/issues/19486,OFFBOARD: support angular velocity targets (?)
+https://github.com/PX4/PX4-Autopilot/issues/19394,https://api.github.com/repos/PX4/PX4-Autopilot/issues/19394,Can not keep offboard mode!
+https://github.com/deepak-1530/FastPlannerOctomap/issues/3,https://api.github.com/repos/deepak-1530/FastPlannerOctomap/issues/3,It continues to fail with warnings in the arminig part.
+https://github.com/ethz-asl/ethzasl_fw_px4/pull/51,https://api.github.com/repos/ethz-asl/ethzasl_fw_px4/pulls/51,NPFG path following offboard mode
+https://github.com/mavlink/mavros/issues/1644,https://api.github.com/repos/mavlink/mavros/issues/1644,Unable to Offboard
